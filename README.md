@@ -1,4 +1,4 @@
-# react-ts-template
+# react-template
 
 # Getting Started with Create React App
 
